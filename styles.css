@@ -1,0 +1,44 @@
+.sinput{
+
+  width: 400px;
+  line-height: 24px;
+
+
+  border-radius: 24px;
+
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 2px solid;
+  border-color: gray;
+  display: block;
+}
+img{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 130px;
+  display:block;
+}
+.btn-wrapper{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  font-weight: bold;
+  border:none;
+  padding: 8px;
+  margin-left: 4px;
+  margin-right: 4px;
+
+  margin-top: 20px;
+  
+
+}
+body{
+  background-color: ;
+}
