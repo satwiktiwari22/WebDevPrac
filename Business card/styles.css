@@ -1,0 +1,40 @@
+.name{
+  font-weight: bold;
+  font-family: monospace;
+}
+.job{
+  font-family: monospace;
+  font-size: 15px;
+}
+.place{
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 18px;
+}
+img{
+  width: 110px;
+  border: 1px dashed chocolate;
+}
+.content-wrap{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  background-color: lightyellow;
+  border: 2px dotted chocolate;
+  /* margin-right: 350px; */
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 5px solid chocolate;
+}
+.detail{
+  text-align: center;
+  padding: 10px;
+  border: 1px dashed chocolate;
+  color: brown;
+
+
+  padding-top: 12px;
+}
