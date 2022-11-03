@@ -1,37 +1,52 @@
-body{
-  background-color: #e8f3f8;
-}
-
 .content{
-  margin: 
-  background-color: steelblue;
+  margin: 50px 600px;
+  background-color: #e9f4f9;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
-
 .frm-content{
   display: block;
 }
-
-h1{
-  text-align: center;
-  font-size: 50px;
-
+.lab{
+  padding-left: 10px;
+  color: steelblue;
 }
-
-input{
-  display: inherit;
-  margin: 0 auto;
-  margin-bottom: 25px;
-}
-
-label{
-  display: block;
-  margin: 0 auto;
-}
-
 .box{
   display: inline;
   margin: 0 auto;
 }
+.gender{
+  display: inline;
+  padding: 5px
+}
+
+h1{
+  padding-top: 10px;
+  text-align: center;
+  font-size: 50px;
+  color: steelblue;
+}
+input{
+  font-size: 20px;
+  padding: 5px 10px;
+  display: inherit;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  background-color: grey;
+  border: 2px solid;
+  border-color: steelblue;
+}
+label{
+  display: block;
+  margin: 0 auto;
+}
 button{
+  background-color: steelblue;
+  border: none;
+  color: white;
+  padding: 15px 120px;
+  margin: 0 auto;
+  font-size: 15px;
   display: block;
 }
