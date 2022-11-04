@@ -37,6 +37,12 @@ input{
   border: 2px solid;
   border-color: steelblue;
 }
+input:active{
+  background-color: white;
+}
+input:focus{
+  background-color: white;
+}
 label{
   display: block;
   margin: 0 auto;
