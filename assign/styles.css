@@ -37,9 +37,6 @@ input{
   border: 2px solid;
   border-color: steelblue;
 }
-input:active{
-  background-color: white;
-}
 input:focus{
   background-color: white;
 }
