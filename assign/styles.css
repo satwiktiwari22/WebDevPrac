@@ -48,8 +48,14 @@ button{
   background-color: steelblue;
   border: none;
   color: white;
-  padding: 15px 120px;
+  height:45px;
+  width: 250px;
   margin: 0 auto;
   font-size: 15px;
   display: block;
+}
+button:focus{
+  background-color: white;
+  color: steelblue;
+  border: 2px solid steelblue;
 }
